@@ -11,7 +11,7 @@
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		23CC3B4723DDC7A3003C52B4 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 23CC3B4623DDC7A3003C52B4 /* GoogleService-Info.plist */; };
+		23CC3B4923DE0B5F003C52B4 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 23CC3B4823DE0B5F003C52B4 /* GoogleService-Info.plist */; };
 		7B0C5784998A29E517983E0C /* libPods-InkittChallenge.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2502ACF51380E8237829647D /* libPods-InkittChallenge.a */; };
 /* End PBXBuildFile section */
 
@@ -25,7 +25,7 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = InkittChallenge/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = InkittChallenge/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = InkittChallenge/main.m; sourceTree = "<group>"; };
-		23CC3B4623DDC7A3003C52B4 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		23CC3B4823DE0B5F003C52B4 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		2502ACF51380E8237829647D /* libPods-InkittChallenge.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-InkittChallenge.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D16E6891FA4F8E400B85C8A /* libReact.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libReact.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		E40B1F720DE0D29BF6B90074 /* Pods-InkittChallenge.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InkittChallenge.release.xcconfig"; path = "Target Support Files/Pods-InkittChallenge/Pods-InkittChallenge.release.xcconfig"; sourceTree = "<group>"; };
@@ -89,7 +89,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				23CC3B4623DDC7A3003C52B4 /* GoogleService-Info.plist */,
+				23CC3B4823DE0B5F003C52B4 /* GoogleService-Info.plist */,
 				13B07FAE1A68108700A75B9A /* InkittChallenge */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				83CBBA001A601CBA00E9B192 /* Products */,
@@ -168,7 +168,7 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
-				23CC3B4723DDC7A3003C52B4 /* GoogleService-Info.plist in Resources */,
+				23CC3B4923DE0B5F003C52B4 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

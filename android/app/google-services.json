@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "761961566971",
+    "firebase_url": "https://chatapp-50192.firebaseio.com",
+    "project_id": "chatapp-50192",
+    "storage_bucket": "chatapp-50192.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761961566971:android:d6c0eeedaded7d3795565e",
+        "android_client_info": {
+          "package_name": "com.inkittchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761961566971-7rri9dk55h5bcms3qam2p1b6ima79k8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYcT7nVuN9NyJi3VvIwT7yQssuzSEp7q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761961566971-7rri9dk55h5bcms3qam2p1b6ima79k8f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "761961566971-7q62kelutthlmq9l18giq77unv9vog2v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.InkittChallenge"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
