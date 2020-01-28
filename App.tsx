@@ -1,19 +1,25 @@
 import React from "react";
-import { StyleSheet, Text, View } from "react-native";
+import { StyleSheet, View, SafeAreaView } from "react-native";
+
+import ChatContainer from "./components/ChatContainer";
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
-    </View>
+    <SafeAreaView style={styles.safeAreaView}>
+      <View style={styles.container}>
+        <ChatContainer />
+      </View>
+    </SafeAreaView>
   );
 }
 
 const styles = StyleSheet.create({
+  safeAreaView: { flex: 1, backgroundColor: "#fff" },
   container: {
     flex: 1,
     backgroundColor: "#fff",
-    alignItems: "center",
-    justifyContent: "center"
+    padding: 10,
+    width: "100%",
+    height: "82%"
   }
 });
