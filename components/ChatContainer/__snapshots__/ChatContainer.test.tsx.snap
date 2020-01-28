@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ChatContainer /> rendering Matches snapshot 1`] = `
+<View>
+  <View
+    onTouchEnd={[Function]}
+    style={
+      Object {
+        "alignItems": "flex-end",
+        "borderRadius": 8,
+        "flexDirection": "row",
+        "height": "50%",
+        "justifyContent": "center",
+        "opacity": 0,
+        "padding": 10,
+        "position": "absolute",
+        "top": 0,
+        "width": "100%",
+        "zIndex": 10,
+      }
+    }
+  >
+    <Text />
+  </View>
+  <View
+    style={
+      Object {
+        "height": "100%",
+      }
+    }
+  />
+  <View
+    onTouchEnd={[Function]}
+    style={
+      Object {
+        "alignItems": "flex-end",
+        "borderRadius": 8,
+        "flexDirection": "row",
+        "height": "50%",
+        "justifyContent": "center",
+        "opacity": 0,
+        "padding": 10,
+        "position": "absolute",
+        "top": "50%",
+        "width": "100%",
+        "zIndex": 10,
+      }
+    }
+  >
+    <Text>
+      Tap to continue
+    </Text>
+  </View>
+</View>
+`;
