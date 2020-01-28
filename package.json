@@ -29,7 +29,13 @@
     "typescript": "~3.6.3"
   },
   "jest": {
-    "preset": "react-native"
+    "preset": "react-native",
+    "coveragePathIgnorePatterns": [
+      "/node_modules/"
+    ],
+    "setupFilesAfterEnv": [
+      "./__mocks__/mockFirebase.js"
+    ]
   },
   "private": true
 }
