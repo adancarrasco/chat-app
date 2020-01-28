@@ -24,9 +24,10 @@ After installing the proper tools for iOS and Android you can run the following 
 2. Once you have `yarn` and `node` (prerequisite for yarn)
 3. Run the following command in your terminal: `yarn install; cd ios; pod install; cd ..; yarn start;`
 4. Now you can run the application:
+   (This will take a while the first time)
 
-- For iOS: `react-native run-ios`
-- For Android: `react-native run-android`
+- For iOS: `npx react-native run-ios`
+- For Android: `npx react-native run-android`
 
 ### Data Structure of the stories
 
