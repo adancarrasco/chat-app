@@ -3,21 +3,15 @@
 exports[`<Message /> rendering Matches snapshot as localUser 1`] = `
 <View
   style={
-    Array [
-      Object {
-        "borderRadius": 8,
-        "color": "#fff",
-        "flexDirection": "column",
-        "marginBottom": 14,
-        "maxWidth": "65%",
-        "padding": 10,
-      },
-      Object {
-        "alignItems": "flex-start",
-        "alignSelf": "flex-start",
-        "backgroundColor": "rgb(140,149,154)",
-      },
-    ]
+    Object {
+      "backgroundColor": "rgb(140,149,154)",
+      "borderRadius": 8,
+      "color": "#fff",
+      "flexDirection": "column",
+      "marginBottom": 14,
+      "maxWidth": "65%",
+      "padding": 10,
+    }
   }
 >
   <Text
@@ -43,25 +37,20 @@ exports[`<Message /> rendering Matches snapshot as localUser 1`] = `
 </View>
 `;
 
-exports[`<Message /> rendering Matches snapshot as localUser 2`] = `
+exports[`<Message /> rendering Matches snapshot as remoteUser 1`] = `
 <View
   style={
-    Array [
-      Object {
-        "borderRadius": 8,
-        "color": "#fff",
-        "flexDirection": "column",
-        "marginBottom": 14,
-        "maxWidth": "65%",
-        "padding": 10,
-      },
-      Object {
-        "alignItems": "flex-end",
-        "alignSelf": "flex-end",
-        "backgroundColor": "rgb(43,114,221)",
-        "color": "#fff",
-      },
-    ]
+    Object {
+      "alignItems": "flex-end",
+      "alignSelf": "flex-end",
+      "backgroundColor": "rgb(43,114,221)",
+      "borderRadius": 8,
+      "color": "#fff",
+      "flexDirection": "column",
+      "marginBottom": 14,
+      "maxWidth": "65%",
+      "padding": 10,
+    }
   }
 >
   <Text

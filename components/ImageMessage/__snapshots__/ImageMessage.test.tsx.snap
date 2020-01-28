@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ImageMessage /> rendering Matches snapshot as localUser 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "rgb(140,149,154)",
+      "borderRadius": 8,
+      "marginBottom": 14,
+      "opacity": 1,
+      "padding": 10,
+    }
+  }
+>
+  <Image
+    resizeMode="contain"
+    source={
+      Object {
+        "uri": "https://www.petmd.com/sites/default/files/CANS_dogsmiling_379727605.jpg",
+      }
+    }
+    style={
+      Object {
+        "height": 120,
+        "width": 180,
+      }
+    }
+  />
+</View>
+`;
+
+exports[`<ImageMessage /> rendering Matches snapshot as remoteUser 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "flex-end",
+      "alignSelf": "flex-end",
+      "backgroundColor": "rgb(43,114,221)",
+      "borderRadius": 8,
+      "color": "#fff",
+      "marginBottom": 14,
+      "opacity": 1,
+      "padding": 10,
+    }
+  }
+>
+  <Image
+    resizeMode="contain"
+    source={
+      Object {
+        "uri": "https://www.petmd.com/sites/default/files/CANS_dogsmiling_379727605.jpg",
+      }
+    }
+    style={
+      Object {
+        "height": 120,
+        "width": 180,
+      }
+    }
+  />
+</View>
+`;

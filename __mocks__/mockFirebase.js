@@ -16,3 +16,5 @@ jest.mock("@react-native-firebase/app", () => {
     setCurrentScreen: jest.fn()
   });
 });
+
+jest.useFakeTimers();

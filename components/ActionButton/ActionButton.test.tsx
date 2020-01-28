@@ -3,7 +3,7 @@ import renderer from "react-test-renderer";
 import ActionButton from "./ActionButton.component";
 
 describe("<ActionButton /> rendering", () => {
-  const mockOnTouchEnd = () => {};
+  const mockOnTouchEnd = jest.fn();
   it("Matches snapshot", () => {
     const tree = renderer
       .create(<ActionButton onTouchEnd={mockOnTouchEnd} />)
