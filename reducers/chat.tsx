@@ -53,6 +53,7 @@ export default function chatReducer(state, action: ChatActionTypes) {
   switch (action.type) {
     case ADD_TO_CONVERSATION:
       // TODO: Get container's height and calculate number of elements
+      // https://stackoverflow.com/questions/30203154/get-size-of-a-view-in-react-native
       if (state.conversation.length > screenHeight / 120) {
         // Here we are removing the first item from conversation
         // to enhance the performance and adding the item keys to an array
