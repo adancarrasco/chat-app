@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Message /> rendering Matches snapshot as localUser 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "borderRadius": 8,
+        "color": "#fff",
+        "flexDirection": "column",
+        "marginBottom": 14,
+        "maxWidth": "65%",
+        "padding": 10,
+      },
+      Object {
+        "alignItems": "flex-start",
+        "alignSelf": "flex-start",
+        "backgroundColor": "rgb(140,149,154)",
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#fff",
+        "fontWeight": "600",
+        "marginBottom": 6,
+      }
+    }
+  >
+    Summer
+  </Text>
+  <Text
+    style={
+      Object {
+        "color": "#fff",
+      }
+    }
+  >
+    Sorry I cannot call you now.
+  </Text>
+</View>
+`;
+
+exports[`<Message /> rendering Matches snapshot as localUser 2`] = `
+<View
+  style={
+    Array [
+      Object {
+        "borderRadius": 8,
+        "color": "#fff",
+        "flexDirection": "column",
+        "marginBottom": 14,
+        "maxWidth": "65%",
+        "padding": 10,
+      },
+      Object {
+        "alignItems": "flex-end",
+        "alignSelf": "flex-end",
+        "backgroundColor": "rgb(43,114,221)",
+        "color": "#fff",
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#fff",
+        "fontWeight": "600",
+        "marginBottom": 6,
+      }
+    }
+  >
+    Summer
+  </Text>
+  <Text
+    style={
+      Object {
+        "color": "#fff",
+      }
+    }
+  >
+    Sorry I cannot call you now.
+  </Text>
+</View>
+`;
