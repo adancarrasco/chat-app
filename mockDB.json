@@ -1,0 +1,107 @@
+{
+  "stories" : {
+    "4szFlgouIMJ75tQi3xey" : {
+      "coverImage" : "theHelloWorldStory.png",
+      "firstMessage" : "HwJhf5q2IYs5ZyBmsugB",
+      "storyThread" : {
+        "0iUggFCKG6VRrNv5lsD4" : {
+          "isLocalUser" : false,
+          "message" : "sry I didn't tell you",
+          "name" : "Summer",
+          "next" : [ "L5V17jXTGrHg62NOcKgi" ],
+          "type" : "text"
+        },
+        "Bn1wNoMG34HEsktS9eAu" : {
+          "isLocalUser" : false,
+          "message" : "I'm serious, Scorp.",
+          "name" : "Summer",
+          "next" : [ "LRkpWrltaHyxJQHT5wJo" ],
+          "type" : "text"
+        },
+        "DwhjtnVXYNhiwGRgRsqR" : {
+          "isLocalUser" : false,
+          "next" : [ "cIl5idoOADHy1O2FOp6F" ],
+          "type" : "image",
+          "url" : "4szFlgouIMJ75tQi3xey_hash_1.png"
+        },
+        "GlhnC6NuSCrAEKVoJL4F" : {
+          "isLocalUser" : false,
+          "message" : "I woke up about 10 mins ago",
+          "name" : "Summer",
+          "next" : [ "deohPEKa59ttEz10UUQx" ],
+          "type" : "text"
+        },
+        "HwJhf5q2IYs5ZyBmsugB" : {
+          "isLocalUser" : false,
+          "message" : "Elliot's gonna kill me.",
+          "name" : "Summer",
+          "next" : [ "P2fTDa2kBsjtiJVeYrQ9" ],
+          "type" : "text"
+        },
+        "L5V17jXTGrHg62NOcKgi" : {
+          "isLocalUser" : false,
+          "message" : "But tonight got worse",
+          "name" : "Summer",
+          "next" : [ "LbeGCfJoBJKfqNymrAlg" ],
+          "type" : "text"
+        },
+        "LRkpWrltaHyxJQHT5wJo" : {
+          "isLocalUser" : true,
+          "message" : "What r u saying",
+          "name" : "Scorp",
+          "next" : [ "XJV8TsCqVQ8evk1xdNSU" ],
+          "type" : "text"
+        },
+        "LbeGCfJoBJKfqNymrAlg" : {
+          "isLocalUser" : false,
+          "message" : "He hit me so hard I blacked out",
+          "name" : "Summer",
+          "next" : [ "GlhnC6NuSCrAEKVoJL4F" ],
+          "type" : "text"
+        },
+        "P2fTDa2kBsjtiJVeYrQ9" : {
+          "isLocalUser" : true,
+          "message" : "Busy. Talk later?",
+          "name" : "Scorp",
+          "next" : [ "Bn1wNoMG34HEsktS9eAu" ],
+          "type" : "text"
+        },
+        "SGWjn0TtQ41uRTFyCjcW" : {
+          "isLocalUser" : true,
+          "message" : "On my way!",
+          "name" : "Scorp",
+          "type" : "text"
+        },
+        "TSRIGTc5XWbxFJjuQLV5" : {
+          "isLocalUser" : true,
+          "message" : "that bastard",
+          "name" : "Scorp",
+          "next" : [ "0iUggFCKG6VRrNv5lsD4" ],
+          "type" : "text"
+        },
+        "XJV8TsCqVQ8evk1xdNSU" : {
+          "isLocalUser" : false,
+          "message" : "I'm saying I haven't been honest with you",
+          "name" : "Summer",
+          "next" : [ "DwhjtnVXYNhiwGRgRsqR" ],
+          "type" : "text"
+        },
+        "cIl5idoOADHy1O2FOp6F" : {
+          "isLocalUser" : true,
+          "message" : "HE'S PUTTING HIS HANDS ON U?!",
+          "name" : "Scorp",
+          "next" : [ "TSRIGTc5XWbxFJjuQLV5" ],
+          "type" : "text"
+        },
+        "deohPEKa59ttEz10UUQx" : {
+          "isLocalUser" : false,
+          "message" : "Now I'm hiding in the bathroom",
+          "name" : "Summer",
+          "next" : [ "SGWjn0TtQ41uRTFyCjcW" ],
+          "type" : "text"
+        }
+      },
+      "storyTitle" : "The hello world story"
+    }
+  }
+}
