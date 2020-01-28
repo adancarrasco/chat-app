@@ -4,12 +4,6 @@
 
 This App was designed to follow the behavior of the App metioned in the following [article](https://techcrunch.com/2017/06/13/the-chat-fiction-apps-that-teens-go-crazy-for/). This App was built with React Native and works for iOS and Android latest versions.
 
-The look and feel of the App is:
-
-![iOS Example](https://github.com/adancarrasco/chat-app/blob/master/doc/assets/iPhoneExample.png?raw=true)
-
-![Android Example](https://github.com/adancarrasco/chat-app/blob/master/doc/assets/AndroidExample.png?raw=true)
-
 ## Quick Start
 
 ### Install and run
@@ -57,3 +51,9 @@ This App was built with [React Native](https://facebook.github.io/react-native/)
 ### Support
 
 If you have any questions regarding the implementation or feature requests feel free to send an email to [send email](mailto:hello@adancarrasco.com)
+
+### Look and feel
+
+![iOS Example](https://github.com/adancarrasco/chat-app/blob/master/doc/assets/iPhoneExample.png?raw=true)
+
+![Android Example](https://github.com/adancarrasco/chat-app/blob/master/doc/assets/AndroidExample.png?raw=true)
